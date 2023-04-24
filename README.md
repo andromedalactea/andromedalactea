@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy Bryan, un estudiante de pregrado en Astronomía <br>de la Universidad de Antioquia. Actualmente, estoy explorando <br>el fascinante  mundo de los datos como proyecto personal,<br> con el objetivo de especializarme en la recolección y limpieza <br>de datos, así como en el desarrollo de modelos de machine learning <br>que me permitan obtener la máxima información de los datos.<br>Espero poder aplicar estas habilidades en un futuro trabajo <br>relacionado con el análisis de datos <br>y sacarle el máximo provecho a la información disponible.
+Hi there! I'm Bryan, an undergraduate student in Astronomy at the University of Antioquia. Currently, I'm delving into the fascinating world of data as a personal project, aiming to specialize in data collection, cleaning, and the development of machine learning models that allow me to extract maximum insights from data. I hope to apply these skills in a future data analysis-related job and make the most of the available information.
 
 
 ## 🌐 Socials:
