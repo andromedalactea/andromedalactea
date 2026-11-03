@@ -4,7 +4,7 @@
 
 Hi, to whoever felt like reading this.
 
-I'm Bryan. I'm in my last year of astronomy at the Universidad de Antioquia, in Medellín, Colombia. I've also been inside the world of modern digital technology for a while, finding my way in before OpenAI put large language models on the market and changed the reality we live in. Before that boom I sat down and learned to program, with Python as the core, and I never really left it.
+I'm Bryan. I'm in my last year of astronomy at the Universidad de Antioquia, in Medellín, Colombia. I've also been inside the world of modern digital technology since 2020, finding my way in before OpenAI put large language models on the market and changed the reality we live in. Before that boom I sat down and learned to program, with Python as the core, and I never really left it.
 
 When the models arrived, they let me walk into parts of the industry I hadn't touched. I started in data science, then I found backend work, and web development pushed along by AI. From the first models I have stayed close, watching firsthand how each part of society has been changing, including me. Over the years that turned into real projects. They formed me mainly as a scientist, but one who stays next to what a normal business, the kind that has to make money, actually needs. I learned how a business thinks. And I bring ideas that come from being curious and restless, even into businesses that look like physics has nothing to give them. The logical structure that science stands on is still very good for understanding the logic of a business.
 
