@@ -11,7 +11,7 @@ When the models arrived, they let me walk into parts of the industry I hadn't to
 The equation that won't leave me alone, as a scientist:
 
 $$
-R_{\mu\nu} - \frac{1}{2} R g_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^{4}} T_{\mu\nu}
+G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^{4}} T_{\mu\nu}
 $$
 
 Some of the experiments I did at the university:
