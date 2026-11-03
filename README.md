@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="figures/profile_header.png" alt="Bryan R., Medellín" width="780">
+  <a href="https://www.upwork.com/freelancers/~01e15f14a7dcec1fa6">
+    <img src="figures/profile_header.png" alt="Bryan R. on Upwork" width="780">
+  </a>
+  <br>
+  <a href="https://www.upwork.com/freelancers/~01e15f14a7dcec1fa6">Upwork profile</a>
 </p>
 
 Hi, to whoever felt like reading this.
