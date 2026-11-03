@@ -1,24 +1,43 @@
-# 💫 About Me:
-Hello there! I'm Bryan, now an advanced student in Astronomy at the University of Antioquia, with a burgeoning career as a DATA SCIENCE&ENGINEER and PYTHON DEVELOPER. My academic journey has been complemented by hands-on experience in data science, where I've honed skills in data acquisition, cleaning, and developing machine learning models to glean meaningful insights from complex datasets.<br><br>I've successfully applied these competencies in professional settings, contributing to projects that required sophisticated data analysis and innovative problem-solving approaches. With a solid foundation in both theory and practical application, I'm equipped to tackle diverse challenges in the field of data analytics.<br><br>If you're looking for someone who can transform data into actionable intelligence, I'm open to discussing how my background in data science and passion for astronomy can align with your needs. Feel free to reach out to me for collaboration, services, or to exchange ideas!
+<p align="center">
+  <img src="figures/profile_header.png" alt="Bryan R., Medellín" width="780">
+</p>
 
+Hi, to whoever felt like reading this.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/andromedalactea/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bryan-camilo-restrepo-arcila-172851250) 
+I'm Bryan. I'm in my last year of astronomy at the Universidad de Antioquia, in Medellín, Colombia. I've also been inside the world of modern digital technology for a while, finding my way in before OpenAI put large language models on the market and changed the reality we live in. Before that boom I sat down and learned to program, with Python as the core, and I never really left it.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=andromedalactea&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=andromedalactea&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andromedalactea&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+When the models arrived, they let me walk into parts of the industry I hadn't touched. I started in data science, then I found backend work, and web development pushed along by AI. From the first models I have stayed close, watching firsthand how each part of society has been changing, including me. Over the years that turned into real projects. They formed me mainly as a scientist, but one who stays next to what a normal business, the kind that has to make money, actually needs. I learned how a business thinks. And I bring ideas that come from being curious and restless, even into businesses that look like physics has nothing to give them. The logical structure that science stands on is still very good for understanding the logic of a business.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+The equation that won't leave me alone, as a scientist:
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=andromedalactea&limit=5&theme=dark&combine_all_yearly_contributions=true)
+$$
+R_{\mu\nu} - \frac{1}{2} R g_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^{4}} T_{\mu\nu}
+$$
 
----
-[![](https://visitcount.itsvg.in/api?id=andromedalactea&icon=0&color=11)](https://visitcount.itsvg.in)
+Some of the experiments I did at the university:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## A gas, an atmosphere, a star
+
+Particles in a box, one day of temperature on Earth, and a star falling in on itself. [Continuum mechanics](https://github.com/andromedalactea/Continuus_Mechanics).
+
+| Ideal gas | Surface temperature | Collapse |
+| --- | --- | --- |
+| ![Particles of an ideal gas](figures/ideal_gas_simulation.gif) | ![Surface temperature over one day](figures/surface_temperature_one_day.gif) | ![A star collapsing](figures/gravitational_collapse.gif) |
+
+A dam break, written in C. [Computational astrophysics](https://github.com/andromedalactea/ComputationalAstrophysics).
+
+![SPH dam break](figures/sph_dam_break.gif)
+
+## Orbits, and a pendulum that won't repeat
+
+A ship on the way to the Moon, and two double pendulums that start almost the same. [Celestial mechanics](https://github.com/andromedalactea/celestial_mechanics).
+
+| Toward the Moon | Two pendulums, almost the same start |
+| --- | --- |
+| ![Approach to the Moon](figures/moon_approach.png) | ![Two double pendulums](figures/double_pendulum_hamiltonian.gif) |
+
+## And one that left the classroom
+
+[Aves Sonoras](https://aves-sonoras-b3bg.onrender.com/) listens to a recording and guesses which bird is singing, from the Fourier signature of the call. [Code](https://github.com/andromedalactea/fourier_birds_classification).
+
+![Aves Sonoras, Fourier signature of a bird call](figures/aves_sonoras_fourier.png)
